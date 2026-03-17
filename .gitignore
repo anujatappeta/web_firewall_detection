@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# logs
+*.log
+
+# database
+*.db
+
+# tools
+sqlmap/
+tools/
